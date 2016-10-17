@@ -1,0 +1,1 @@
+fork creates a new process by duplicating the calling process. The new process, referred to as the child, is an exact duplicate of the calling process. Child inherits copies of file descriptors and other message descriptors as well. Child has its own id and parent has its own. Semaphores and other locks sre not inherited by child. All utilization parameters are set to zero.

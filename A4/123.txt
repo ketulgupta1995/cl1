@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<stdio.h>
+
+int main()
+{
+printf("a");
+int a;
+a=b;
+a=2;
+if(a-2)
+{
+printf("a");
+}
+
+while(b-b)
+{
+a=2;
+}
+}
